@@ -1,0 +1,108 @@
+{
+  "topics": {
+    "October": ["Introduction to Programming", "Web Development Basics", "Data Structures and Algorithms", "Database Management"],
+    "November": ["Object-Oriented Programming", "Frontend Development", "Backend Development", "Document Object Model"],
+    "December": ["Advanced Algorithms", "React", "Node.Js", "FullStack Application"]
+  },
+  "tasks": {
+    "October": ["Summary about programming", "Design the layout using HTML and CSS", "Data Structures and Algorithms", "Run the MongoBB commands"],
+    "November": ["Practice the task with OOPs", "Build a sample website with HTML, CSS and JS", "Run the SQL Commands", "Build a calculator application"],
+    "December": ["Perform CRUD operation tasks", "Build application using React", "Build and run Node.Js commands", "Build a portfolio website"]
+  },
+  "users": [
+    {
+      "user_name": "Ajay",
+      "batch_id": "2020A",
+      "task_completion": 25,
+      "Codekatta": 15,
+      "placement_drives_appeared": [{"Company" : "TCS", "date": "15-Oct-2020", "status": "appeared"}, {"Company" : "HCL", "date": "31-Oct-2020", "status": "Absent"}, {"Company" : "ZOHO", "date": "15-Nov-2020", "status": "appeared"}],
+      "absence_status": [{"date": "10-Oct-2020", "status": "absent"}]
+    },
+    {
+      "user_name": "vinoth",
+      "batch_id": "2020B",
+      "task_completion": 28,
+      "Codekatta": 20,
+      "placement_drives_appeared": [{"Company" : "TCS", "date": "15-Oct-2020", "status": "appeared"}, {"Company" : "HCL", "date": "31-Oct-2020", "status": "Absent"}, {"Company" : "ZOHO", "date": "15-Nov-2020", "status": "appeared"}],
+      "absence_status": []
+    },
+    {
+      "user_name": "Ragu",
+      "batch_id": "2020A",
+      "task_completion": 20,
+      "Codekatta": 10,
+      "placement_drives_appeared": [{"Company" : "TCS", "date": "15-Oct-2020", "status": "absent"}, {"Company" : "HCL", "date": "31-Oct-2020", "status": "Absent"}, {"Company" : "ZOHO", "date": "15-Nov-2020", "status": "absent"}],
+      "absence_status": [{"date": "15-Oct-2020", "status": "absent"}]
+    },
+    {
+      "user_name": "Siva",
+      "batch_id": "2020B",
+      "task_completion": 30,
+      "Codekatta": 25,
+      "placement_drives_appeared": [{"Company" : "TCS", "date": "15-Oct-2020", "status": "absent"}, {"Company" : "HCL", "date": "31-Oct-2020", "status": "Absent"}, {"Company" : "ZOHO", "date": "15-Nov-2020", "status": "appeared"}],
+      "absence_status": []
+    },
+    {
+      "user_name": "Mano",
+      "batch_id": "2020A",
+      "task_completion": 27,
+      "Codekatta": 18,
+      "placement_drives_appeared": [{"Company" : "TCS", "date": "15-Oct-2020", "status": "appeared"}, {"Company" : "HCL", "date": "31-Oct-2020", "status": "Absent"}, {"Company" : "ZOHO", "date": "15-Nov-2020", "status": "appeared"}],
+      "absence_status": [{"Company" : "TCS", "date": "15-Oct-2020", "status": "absent"}, {"Company" : "HCL", "date": "31-Oct-2020", "status": "absent"}]
+    },
+    {
+      "user_name": "Udhay",
+      "batch_id": "2020B",
+      "task_completion": 29,
+      "Codekatta": 22,
+      "placement_drives_appeared": [{"Company" : "TCS", "date": "15-Oct-2020", "status": "appeared"}, {"Company" : "HCL", "date": "31-Oct-2020", "status": "Absent"}, {"Company" : "ZOHO", "date": "15-Nov-2020", "status": "appeared"}],
+      "absence_status": []
+    },
+    {
+      "user_name": "Chris",
+      "batch_id": "2020A",
+      "task_completion": 23,
+      "Codekatta": 15,
+      "placement_drives_appeared": [{"Company" : "TCS", "date": "15-Oct-2020", "status": "appeared"}, {"Company" : "HCL", "date": "31-Oct-2020", "status": "appeared"}, {"Company" : "ZOHO", "date": "15-Nov-2020", "status": "appeared"}],
+      "absence_status": [{"date": "30-Oct-2020", "status": "absent"}]
+    },
+    {
+      "user_name": "Mike",
+      "batch_id": "2020B",
+      "task_completion": 26,
+      "Codekatta": 17,
+      "placement_drives_appeared":  [{"Company" : "TCS", "date": "15-Oct-2020", "status": "appeared"}, {"Company" : "HCL", "date": "31-Oct-2020", "status": "appeared"}, {"Company" : "ZOHO", "date": "15-Nov-2020", "status": "appeared"}],
+      "absence_status": [{"date": "15-Oct-2020", "status": "absent"}]
+    },
+    {
+      "user_name": "Joseph",
+      "batch_id": "2020A",
+      "task_completion": 22,
+      "Codekatta": 12,
+      "placement_drives_appeared":  [{"Company" : "TCS", "date": "15-Oct-2020", "status": "appeared"}, {"Company" : "HCL", "date": "31-Oct-2020", "status": "appeared"}, {"Company" : "ZOHO", "date": "15-Nov-2020", "status": "appeared"}],
+      "absence_status": [{"date": "10-Oct-2020", "status": "absent"}]
+    },
+    {
+      "user_name": "vignesh",
+      "batch_id": "2020B",
+      "task_completion": 30,
+      "Codekatta": 28,
+      "placement_drives_appeared":  [{"Company" : "TCS", "date": "15-Oct-2020", "status": "appeared"}, {"Company" : "HCL", "date": "31-Oct-2020", "status": "appeared"}, {"Company" : "ZOHO", "date": "15-Nov-2020", "status": "absent"}],
+      "absence_status": []
+    }
+  ],
+  "mentors": [
+    {
+      "mentor_name": "Saravanan",
+      "students_count": 15
+    },
+    {
+      "mentor_name": "Nisha",
+      "students_count": 18
+    },
+    {
+      "mentor_name": "Santhosh",
+      "students_count": 12
+    }
+  ]
+}
